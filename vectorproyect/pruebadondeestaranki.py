@@ -1,0 +1,2 @@
+import anki_vector
+anki_vector.path
