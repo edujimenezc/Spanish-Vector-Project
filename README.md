@@ -47,5 +47,5 @@ Steps to be able to run the project:
 
 3. You have to change the lines that guive you error replacing the absolute path for the relative path (I´ll change it)
 
-
+4. Now you can use Spanish Vector, the file you need to run is chatbot.py
 ### You can follow me on Twitter:   @nobunaga68
